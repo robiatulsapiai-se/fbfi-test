@@ -118,15 +118,14 @@ AWARDS
 "Welcome to Farm's Best Food Industries! Since 1989, we've been a trusted name in Malaysia's poultry industry. As a subsidiary of the CAB Group, the largest poultry integrator in the country, we bring you top-quality poultry products."
 
 "Our Products"
-
 "Discover our range of fresh chicken and further processed delights, including nuggets and frankfurters, all halal and veterinary inspected for your peace of mind."
 
 "Our Reach"
-
 "We're proud to supply major 'Quick Serve Restaurants,' and our products are available in leading supermarkets and hypermarkets."
-"Our Facilities"
 
+"Our Facilities"
 "Our processing plant, with advanced features, ensures product quality, and we're committed to sustainability with resource recovery and wastewater treatment."
+
 "Experience 'FARM'S BEST'"
 
 "Experience the taste of 'FARM'S BEST' products, trusted by food processors, hotels, and restaurants. Join us on this delicious journey!"
